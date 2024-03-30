@@ -1,2 +1,0 @@
-# verhuislifthurenamsterdam
-My awesome repository
